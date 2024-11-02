@@ -27,6 +27,7 @@ conversion_factors = {
         'Fluid Ounces': {'Liters': 0.0295735, 'Milliliters': 29.5735, 'Gallons': 0.0078125, 'Fluid Ounces': 1, 'Cubic Meters': 2.95735e-5, 'Cubic Centimeters': 29.5735, 'Cubic Kilometers': 2.95735e-14, 'Cubic Millimeters': 29573.5},
         'Cubic Meters': {'Liters': 1000, 'Milliliters': 1e+6, 'Gallons': 264.172, 'Fluid Ounces': 33814, 'Cubic Meters': 1, 'Cubic Centimeters': 1e+6, 'Cubic Kilometers': 1e-9, 'Cubic Millimeters': 1e+9},
         'Cubic Centimeters': {'Liters': 0.001, 'Milliliters': 1, 'Gallons': 0.000264172, 'Fluid Ounces': 0.033814, 'Cubic Meters': 1e-6, 'Cubic Centimeters': 1, 'Cubic Kilometers': 1e-15, 'Cubic Millimeters': 1000},
+        'Cubed Decimeters': {'Liters': 1,'Milliliters': 1000,'Gallons': 0.264172,'Fluid Ounces': 33.814,'Cubic Meters': 0.001,'Cubic Centimeters': 1000,'Cubic Kilometers': 1e-12,'Cubic Millimeters': 1e6},
         'Cubic Kilometers': {'Liters': 1e+12, 'Milliliters': 1e+15, 'Gallons': 2.64172e+11, 'Fluid Ounces': 3.3814e+13, 'Cubic Meters': 1e+9, 'Cubic Centimeters': 1e+15, 'Cubic Kilometers': 1, 'Cubic Millimeters': 1e+18},
         'Cubic Millimeters': {'Liters': 1e-6, 'Milliliters': 0.001, 'Gallons': 2.64172e-7, 'Fluid Ounces': 3.3814e-5, 'Cubic Meters': 1e-9, 'Cubic Centimeters': 0.001, 'Cubic Kilometers': 1e-18, 'Cubic Millimeters': 1},
     },
